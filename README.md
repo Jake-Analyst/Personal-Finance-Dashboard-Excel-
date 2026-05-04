@@ -28,30 +28,4 @@ Individuals often lack a clear understanding of their spending behavior and cash
 ### Cleaned Data
 *Screenshot of the cleaned, well-structured dataset ready for analysis.*  
 ![Clean M-Pesa Statement Spreadsheet](./Cleaned%20Spreadsheet.png)
-### Final Dashboard
-*Screenshot of the interactive Excel dashboard summarizing income, expenses, and spending insights.*  
-![M-Pesa Dashboard](./MY%20UPDATED%20MPESA%20STATEMENT%20DASHBOARD.png) 
 
-
-##  Results & Insights
-- Revealed key spending categories driving most expenses.  
-- Highlighted income vs. expense trends over time.  
-- Provided a visual summary of cash inflows and outflows.  
-- Enabled better understanding of financial behavior and potential savings opportunities.
-
-
-##  Business Recommendations
-- Monitor high-expenditure categories regularly to identify cost-saving opportunities.  
-- Set monthly spending limits based on historical trends.  
-- Use dashboards like this as personal finance tracking tools for consistent budgeting.
-
-
-##  Next Steps
-- Add **slicers** for category and month filters to enhance interactivity.  
-- Automate monthly data updates using Power Query refresh.  
-- Expand the dashboard to include **savings rate** and **net cash flow over time**.
-
-
-##  Tools Used
-- **Microsoft Excel** – Power Query, Pivot Tables, Dashboard Design  
-- **Data Source:** M-Pesa Statement(anonymized cor privacy)
