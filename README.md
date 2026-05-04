@@ -1,23 +1,19 @@
-# Personal Finance Dashboard (Excel)
+## Personal Finance Dashboard – M-Pesa Data Cleaning (Excel)
 
-## Executive Summary
-This project demonstrates an end-to-end data analytics process using an M-Pesa statement to develop a **Personal Finance Dashboard** in Excel. The goal was to transform unstructured financial transactions into clean, analysis-ready data and uncover insights into spending patterns, income trends, and overall cash flow. The project showcases advanced Excel skills, including Power Query for cleaning and visualization design for storytelling.
+This project demonstrates the process of transforming raw M-Pesa transaction statements into a clean, structured dataset using Microsoft Excel. The original data contained inconsistencies such as duplicate entries, unstructured transaction descriptions, and mixed formats, making it difficult to analyze directly. Using Power Query, the dataset was cleaned, standardized, and prepared for analysis.
 
-## Business Problem
-Individuals often lack a clear understanding of their spending behavior and cash flow due to scattered or unstructured transaction data. The challenge was to convert a raw M-Pesa statement filled with inconsistencies into a structured dataset that enables effective financial tracking and decision-making.
+The cleaning process involved removing duplicates, extracting meaningful transaction details from text descriptions, standardizing formats, and categorizing transactions into relevant groups such as income and expenses. Power Query was used extensively to automate these transformations, ensuring the data remains consistent and refreshable for future updates.
 
-## Methodology
-1. **Data Import:** Loaded the raw M-Pesa statement (CSV format) into Excel.  
-2. **Data Cleaning:** Used Power Query to remove duplicates, remove the unwanted transaction sentences to remain with the receipt's name using DAX standardize formats, and categorize transactions.  
-3. **Data Transformation:** Created calculated columns for income, expenses, and transaction types.  
-4. **Visualization:** Designed a dashboard to display financial card visuals, spending by category, and monthly trends.
+The final output is an analysis-ready dataset that can be used for financial tracking, dashboard creation, and insight generation. This project highlights practical skills in data cleaning, transformation, and preparation—critical steps in any data analytics workflow.
 
-
-## Skills Demonstrated
-- Data Cleaning & Transformation using DAX (Power Query)  
-- Data Visualization & Dashboard Design (Excel)  
-- Financial Data Analysis & Categorization  
-- Analytical Thinking & Insight Extraction  
+## Tools Used
+Microsoft Excel
+Power Query
+## Key Skills Demonstrated
+Data Cleaning & Transformation
+Handling Unstructured Financial Data
+Data Standardization
+Analytical Thinking
 
 
 ## Project Workflow
